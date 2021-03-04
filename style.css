@@ -1,0 +1,27 @@
+
+    H1{TEXT-ALIGN : CENTER}      
+    H2{TEXT-ALIGN : CENTER} 
+    H3{TEXT-ALIGN : CENTER}      
+    H1{FONT-FAMILY : MV BOLI}     
+    H2{FONT-FAMILY : MV BOLI}
+    H3{FONT-FAMILY : MV BOLI}
+.heading{
+    background-color:#00ffff;
+
+}
+.heading{
+    border:solid;
+    border-color:#000000;
+}
+.links{
+    background-color:#7fffd4;
+    border:solid;
+    border-color: #808080;
+}
+.origamies{BACKGROUND-IMAGE : url("OrigamiImages/images/BACKGROUND.jpg");
+        display:flex;
+    justify-content:space-evenly; }
+.origamies1{BACKGROUND-IMAGE : url("OrigamiImages/images/BACKGROUND.jpg");
+        display:flex;
+    justify-content:space-evenly; }
+    
